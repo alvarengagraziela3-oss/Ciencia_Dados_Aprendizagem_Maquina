@@ -1,1 +1,1 @@
-
+atividade 12/08 Big Data refere-se ao uso de grandes volumes de dados para obter informações e identificar padrões. É importante para a Ciência de Dados porque possibilita analisar dados e gerar tecnologias para reforçar decisões. No Machine Learning, grandes quantidades de dados permitem que os algoritmos aprendam padrões e percebam de forma específica Mayer-Schönberger e Cukier (2013)

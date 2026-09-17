@@ -10,12 +10,12 @@
 
 | Campo | Preenchimento |
 |---|---|
-| Título provisório do projeto | |
-| Curso / disciplina | |
+| Título provisório do projeto |Ferramentas de controle parental: uma analise comparativa para a proteção infantojuvenil a luz da LGPD e ECA Digital |
+| Curso / disciplina |Ciência de Dados e Aprendizagem de Máquina |
 | Turma | |
-| Equipe | |
+| Equipe |Graziela Alvarenga - Gabriela Marcela |
 | Integrantes e funções iniciais | |
-| Professor(a) | |
+| Professor(a) | Flávia Maria |
 | Data de elaboração | |
 | Versão do documento | |
 
@@ -26,16 +26,11 @@
 Em até 100 palavras, apresente o problema, o público-alvo, a proposta de análise e o resultado esperado.
 
 **Preenchimento:**
-
-________________________________________________________________________________
-
-________________________________________________________________________________
+crianças e adolescentes estão expostos a riscos cibernéticos (grooming, sextorsão, cyberbullying, sharenting) nas redes sociais, agravados pelo uso dual da IA, sem que as ferramentas de controle parental sejam auditadas tecnicamente.
 
 ### 2.2 Declaração do projeto em uma frase
 
-> Nosso projeto utilizará **[dados ou fonte]** para compreender/prever **[fenômeno]**, apoiando **[público ou organização]** na decisão de **[decisão ou ação]**.
-
-**Versão da equipe:**
+Nosso projeto utilizará dados gerados em testes simulados de risco, somados à documentação técnica e às políticas de privacidade de cinco ferramentas de controle parental, para compreender a eficácia da detecção automatizada e o grau de transparência no tratamento de dados de menores, apoiando famílias, desenvolvedores e órgãos reguladores na decisão de qual ferramenta adotar e quais requisitos exigir de sistemas de proteção infantojuvenil.
 
 ________________________________________________________________________________
 
@@ -45,14 +40,23 @@ ________________________________________________________________________________
 
 Descreva a situação atual, o ambiente em que o problema ocorre e as evidências iniciais que demonstram sua relevância.
 
-- Onde o problema ocorre?
-- Quem é afetado?
-- Quais sinais, dados ou relatos indicam sua existência?
-- Por que é importante investigá-lo agora?
+- Onde o problema ocorre? 
+- Quem é afetado? 
+- Quais sinais, dados ou relatos indicam sua existência? 
+- Por que é importante investigá-lo agora? 
 
 **Preenchimento:**
 
-________________________________________________________________________________
+Onde? Em redes sociais, aplicativos de mensagens, jogos e plataformas gamificadas acessadas por crianças e adolescentes;
+
+Quem é afetado? Crianças e adolescentes de 9 a 17 anos, diretamente; pais e responsáveis, que assumem a mediação sem informação técnica suficiente
+
+Sinais e dados que indicam a existência do problema: 93% das crianças e adolescentes brasileiros de 9 a 17 anos usam internet (cerca de 25 milhões), e 23% iniciaram o acesso antes dos 6 anos.
+Cerca de 300 milhões de crianças e jovens no mundo sofreram algum tipo de crime cibernético em 12 meses, segundo relatório das Nações Unidas.
+Estima-se que 19% do público de 12 a 17 anos já sofreu violência sexual facilitada por meios tecnológicos (UNICEF Innocenti, ECPAT, Interpol).
+Parte expressiva das denúncias recebidas pela SaferNet envolve violações de direitos de crianças e adolescentes em ambientes digitais.
+
+Por que investigar agora.? A entrada em vigor do ECA Digital (Lei nº 15.211/2025) cria obrigações novas de verificação de idade, supervisão parental e tratamento de dados de menores, mas não existe avaliação técnica independente que verifique se as ferramentas já disponíveis no mercado cumprem esses requisitos — nem se elas próprias respeitam a privacidade de quem dizem proteger.________________________________________________________________________________
 
 ________________________________________________________________________________
 
@@ -62,7 +66,7 @@ Formule o problema de maneira específica, sem antecipar uma solução.
 
 > **Modelo:** [Público/organização] enfrenta [problema observável] no contexto de [situação], produzindo [consequência ou impacto].
 
-**Problema definido:**
+**Problema definido:** Pais e responsáveis enfrentam a ausência de informação técnica comparável e verificável sobre ferramentas de controle parental, no contexto da crescente exposição infantojuvenil a crimes cibernéticos potencializados por inteligência artificial, produzindo escolhas de proteção baseadas em marketing e não em evidência, com risco de adotar soluções ineficazes na detecção de conteúdo de risco ou excessivamente invasivas em relação aos dados do próprio menor.
 
 ________________________________________________________________________________
 
@@ -70,9 +74,9 @@ ________________________________________________________________________________
 
 | Evidência | Fonte | O que ela indica? | Confiabilidade / limitação |
 |---|---|---|---|
-| 1. | | | |
-| 2. | | | |
-| 3. | | | |
+| 1. 93% dos brasileiros de 9 a 17 anos usam internet; 23% começaram antes dos 6 anos  |Secretaria de Comunicação Social (2024)|Exposição precoce e praticamente universal, ampliando a superfície de risco |Alta (pesquisa oficial). Não mede incidentes, apenas acesso |
+| 2.300 milhões de crianças e jovens vítimas de crime cibernético em 12 meses |ONU News (2024) |Dimensão global do problema |Alta credibilidade institucional; estimativa agregada, sem recorte Brasil |
+| 3.19% do público de 12 a 17 anos sofreu violência sexual facilitada por tecnologia |UNICEF Innocenti / ECPAT / Interpol	 |Gravidade e prevalência dos crimes de natureza sexual online |Alta; metodologia de autorrelato pode gerar subnotificação |
 
 ## 4. Público-alvo e partes interessadas
 

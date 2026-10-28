@@ -9,7 +9,7 @@ Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.
 
 - Estudante ou equipe: **Graziela Marcela Alvarenga Silva Viana**
 - Turma: **PREENCHER**
-- Data de realização: **27/10/2026**
+- Data de realização: **21/10/2026**
 - Integrantes e contribuições (se em equipe): **PREENCHER**
 
 ## Objetivos

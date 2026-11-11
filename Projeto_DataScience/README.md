@@ -39,11 +39,11 @@ Gabriela Marcela Alvarenga Silva Viana
 
 ## Observações
 
-- **Os dois critérios de sucesso definidos na Fase 1 não foram atingidos**, e isso está no notebook como resultado, não escondido. O critério de P2 não foi relaxado depois de ver os dados.
-- **Denúncias medem reporte, não ocorrência.** A alta pode vir de mais crimes, de mais canais de denúncia ou de ambos. Não se afirma causalidade.
-- **n pequeno.** 20 anos (P1) e 4 faixas etárias (P2). Os números de inclinação e R² são descritivos.
-- **Divergência entre edições da SaferNet:** a edição 2024 traz 25.166 (2011) e 17.443 (2015); a de 2025 traz 25.116 e 17.433. Foi usada a mais recente.
-- **Próximo passo possível:** com os microdados do TIC Kids 2025 seria possível agrupar famílias por perfil de mediação (K-means) e prever quem não usa recurso técnico.
+- **Os dois critérios de sucesso definidos na Fase 1 não foram atingidos**
+- **Denúncias medem reporte, não ocorrência.** 
+- **n pequeno.** 
+- **Divergência entre edições da SaferNet:** 
+- **Próximo passo possível:** 
 
 ## Estrutura
 

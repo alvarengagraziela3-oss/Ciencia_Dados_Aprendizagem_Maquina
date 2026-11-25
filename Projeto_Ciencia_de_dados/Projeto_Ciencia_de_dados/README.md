@@ -4,7 +4,8 @@
 Projeto de **Ciência de Dados e Aprendizagem de Máquina** (UDF), baseado no nosso TCC *Controle parental: proteção infantojuvenil no mundo digital*.
 Seguimos o Guia Prático CRISP-DM da Profa. Kadidja Valéria: em cada fase do notebook aparecem o objetivo central, o checklist de execução e a aplicação no projeto.
 
-[![Abrir no Google Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alvarengagraziela3-oss/Ciencia_Dados_Aprendizagem_Maquina/blob/main/Projeto_Ciencia_de_dados/notebooks/crispdm_controle_parental.ipynb])
+[![Abrir no Google Colab]([![Abrir no Google Colab](https://google.com)](https://google.com)
+)
 
 **Integrantes:**
 Graziela Marcela Alvarenga Silva Viana
